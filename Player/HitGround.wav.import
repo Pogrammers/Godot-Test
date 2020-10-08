@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/HitGround.wav-d00098154e504978df42d7928e30f4d6.sample"
+
+[deps]
+
+source_file="res://Player/HitGround.wav"
+dest_files=[ "res://.import/HitGround.wav-d00098154e504978df42d7928e30f4d6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
